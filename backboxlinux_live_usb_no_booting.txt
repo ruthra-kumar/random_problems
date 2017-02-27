@@ -3,6 +3,6 @@ Bakbox linux live usb failed to boot
 If USB is created by using dd command from installation cd.
 
 Mount /dev/sdb1 partition instead of /dev/sdb
-Mount filesystem.squasfs file located in casper directory of usb to /filesystem* folder 
+Mount filesystem.squashfs file located in casper directory of usb to /filesystem* folder 
 
 and then exit, installtion will continue normally
