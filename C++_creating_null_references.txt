@@ -1,0 +1,5 @@
+Create a pointer that is assigned to null
+int *ptr1 = NULL;
+
+Now create a reference and assign the derefenced "ptr1" as initialization value
+int &Ref1 = *(ptr1);
